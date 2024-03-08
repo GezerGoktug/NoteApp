@@ -18,7 +18,7 @@
 
 **<p>You can access the project live below.</p>**
 
-<a href="https://note-app-web-site.netlify.app/">https://note-app-web-site.netlify.app/</a>
+<a href="https://note-app-site.netlify.app/">https://note-app-site.netlify.app/</a>
 <br>
 <br>
 <br>
